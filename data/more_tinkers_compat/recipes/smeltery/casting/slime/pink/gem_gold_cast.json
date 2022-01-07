@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "modid": "industrialforegoing",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "fluid": {
+    "name": "industrialforegoing:pink_slime",
+    "amount": 300
+  },
+  "result": {
+    "item": "industrialforegoing:pink_slime"
+
+  },
+  "cooling_time": 65
+}
